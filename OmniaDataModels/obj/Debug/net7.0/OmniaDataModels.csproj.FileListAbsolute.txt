@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\bin\Debug\net7.0\OmniaDataModels.deps.json
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\bin\Debug\net7.0\OmniaDataModels.dll
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\bin\Debug\net7.0\OmniaDataModels.pdb
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\OmniaDataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\OmniaDataModels.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\OmniaDataModels.AssemblyInfo.cs
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\OmniaDataModels.csproj.CoreCompileInputs.cache
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\OmniaDataModels.dll
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\refint\OmniaDataModels.dll
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\OmniaDataModels.pdb
+C:\Users\viole\source\repos\OmniaAssessment\OmniaDataModels\obj\Debug\net7.0\ref\OmniaDataModels.dll
